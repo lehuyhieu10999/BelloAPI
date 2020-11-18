@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mkKZkz24gqcS9LC6b3a1CioladtveA5KqCxD/h1nkpHYFXdXYu5TmtzIG7o6zZz/6CKp9uzW+CxQ9S9e4LZh9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nguye\\Source\\Repos\\trelo.API\\Bello.BAL.Interface\\Bello.BAL.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

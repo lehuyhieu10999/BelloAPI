@@ -1,0 +1,16 @@
+C:\Users\nguye\Source\Repos\trelo.API\Bello.BAL.Implement\bin\Debug\netcoreapp3.1\Bello.BAL.Implement.deps.json
+C:\Users\nguye\Source\Repos\trelo.API\Bello.BAL.Implement\bin\Debug\netcoreapp3.1\Bello.BAL.Implement.dll
+C:\Users\nguye\Source\Repos\trelo.API\Bello.BAL.Implement\bin\Debug\netcoreapp3.1\Bello.BAL.Implement.pdb
+C:\Users\nguye\Source\Repos\trelo.API\Bello.BAL.Implement\bin\Debug\netcoreapp3.1\Bello.BAL.Interface.dll
+C:\Users\nguye\Source\Repos\trelo.API\Bello.BAL.Implement\bin\Debug\netcoreapp3.1\Bello.DAL.Interface.dll
+C:\Users\nguye\Source\Repos\trelo.API\Bello.BAL.Implement\bin\Debug\netcoreapp3.1\Bello.Domain.dll
+C:\Users\nguye\Source\Repos\trelo.API\Bello.BAL.Implement\bin\Debug\netcoreapp3.1\Bello.BAL.Interface.pdb
+C:\Users\nguye\Source\Repos\trelo.API\Bello.BAL.Implement\bin\Debug\netcoreapp3.1\Bello.DAL.Interface.pdb
+C:\Users\nguye\Source\Repos\trelo.API\Bello.BAL.Implement\bin\Debug\netcoreapp3.1\Bello.Domain.pdb
+C:\Users\nguye\Source\Repos\trelo.API\Bello.BAL.Implement\obj\Debug\netcoreapp3.1\Bello.BAL.Implement.csprojAssemblyReference.cache
+C:\Users\nguye\Source\Repos\trelo.API\Bello.BAL.Implement\obj\Debug\netcoreapp3.1\Bello.BAL.Implement.AssemblyInfoInputs.cache
+C:\Users\nguye\Source\Repos\trelo.API\Bello.BAL.Implement\obj\Debug\netcoreapp3.1\Bello.BAL.Implement.AssemblyInfo.cs
+C:\Users\nguye\Source\Repos\trelo.API\Bello.BAL.Implement\obj\Debug\netcoreapp3.1\Bello.BAL.Implement.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Source\Repos\trelo.API\Bello.BAL.Implement\obj\Debug\netcoreapp3.1\Bello.BAL.Implement.csproj.CopyComplete
+C:\Users\nguye\Source\Repos\trelo.API\Bello.BAL.Implement\obj\Debug\netcoreapp3.1\Bello.BAL.Implement.dll
+C:\Users\nguye\Source\Repos\trelo.API\Bello.BAL.Implement\obj\Debug\netcoreapp3.1\Bello.BAL.Implement.pdb

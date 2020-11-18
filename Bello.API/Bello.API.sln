@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bello.API", "trelo.API\Bello.API.csproj", "{4F323B1C-D311-4C40-A633-446C5543372B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bello.DAL.Interface", "Bello.DAL.Interface\Bello.DAL.Interface.csproj", "{42FE64F3-1496-47EB-B618-943D3DDE8734}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bello.BAL.Interface", "Bello.BAL.Interface\Bello.BAL.Interface.csproj", "{6685BD60-2A6F-4E8B-AA23-C93519C17592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bello.DAL.Implement", "Bello.DAL.Implement\Bello.DAL.Implement.csproj", "{EDD1265E-D169-4128-85B4-B97387258D39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bello.BAL.Implement", "Bello.BAL.Implement\Bello.BAL.Implement.csproj", "{951C465C-40E3-4CB2-8091-E03DC38FD9B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bello.Domain", "Bello.Domain\Bello.Domain.csproj", "{F46E86EE-F86B-4862-A821-3A0FB69BD316}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F323B1C-D311-4C40-A633-446C5543372B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F323B1C-D311-4C40-A633-446C5543372B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F323B1C-D311-4C40-A633-446C5543372B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F323B1C-D311-4C40-A633-446C5543372B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FE64F3-1496-47EB-B618-943D3DDE8734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FE64F3-1496-47EB-B618-943D3DDE8734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FE64F3-1496-47EB-B618-943D3DDE8734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FE64F3-1496-47EB-B618-943D3DDE8734}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6685BD60-2A6F-4E8B-AA23-C93519C17592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6685BD60-2A6F-4E8B-AA23-C93519C17592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6685BD60-2A6F-4E8B-AA23-C93519C17592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6685BD60-2A6F-4E8B-AA23-C93519C17592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDD1265E-D169-4128-85B4-B97387258D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD1265E-D169-4128-85B4-B97387258D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD1265E-D169-4128-85B4-B97387258D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD1265E-D169-4128-85B4-B97387258D39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951C465C-40E3-4CB2-8091-E03DC38FD9B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951C465C-40E3-4CB2-8091-E03DC38FD9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951C465C-40E3-4CB2-8091-E03DC38FD9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951C465C-40E3-4CB2-8091-E03DC38FD9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F46E86EE-F86B-4862-A821-3A0FB69BD316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46E86EE-F86B-4862-A821-3A0FB69BD316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46E86EE-F86B-4862-A821-3A0FB69BD316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46E86EE-F86B-4862-A821-3A0FB69BD316}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F201D0E-24B3-419B-AF29-9C063763CC20}
+	EndGlobalSection
+EndGlobal

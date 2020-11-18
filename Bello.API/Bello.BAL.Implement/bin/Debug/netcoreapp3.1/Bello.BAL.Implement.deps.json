@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bello.BAL.Implement/1.0.0": {
+        "dependencies": {
+          "Bello.BAL.Interface": "1.0.0",
+          "Bello.DAL.Interface": "1.0.0"
+        },
+        "runtime": {
+          "Bello.BAL.Implement.dll": {}
+        }
+      },
+      "System.ComponentModel.Annotations/5.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/System.ComponentModel.Annotations.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "Bello.BAL.Interface/1.0.0": {
+        "dependencies": {
+          "Bello.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Bello.BAL.Interface.dll": {}
+        }
+      },
+      "Bello.DAL.Interface/1.0.0": {
+        "dependencies": {
+          "Bello.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Bello.DAL.Interface.dll": {}
+        }
+      },
+      "Bello.Domain/1.0.0": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "5.0.0"
+        },
+        "runtime": {
+          "Bello.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bello.BAL.Implement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.ComponentModel.Annotations/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dMkqfy2el8A8/I76n2Hi1oBFEbG1SfxD2l5nhwXV3XjlnOmwxJlQbYpJH4W51odnU9sARCSAgv7S3CyAFMkpYg==",
+      "path": "system.componentmodel.annotations/5.0.0",
+      "hashPath": "system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    },
+    "Bello.BAL.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bello.DAL.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bello.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

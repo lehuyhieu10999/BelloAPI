@@ -1,0 +1,9 @@
+C:\Users\nguye\Source\Repos\trelo.API\Bello.Domain\bin\Debug\netstandard2.0\Bello.Domain.deps.json
+C:\Users\nguye\Source\Repos\trelo.API\Bello.Domain\bin\Debug\netstandard2.0\Bello.Domain.dll
+C:\Users\nguye\Source\Repos\trelo.API\Bello.Domain\bin\Debug\netstandard2.0\Bello.Domain.pdb
+C:\Users\nguye\Source\Repos\trelo.API\Bello.Domain\obj\Debug\netstandard2.0\Bello.Domain.csprojAssemblyReference.cache
+C:\Users\nguye\Source\Repos\trelo.API\Bello.Domain\obj\Debug\netstandard2.0\Bello.Domain.AssemblyInfoInputs.cache
+C:\Users\nguye\Source\Repos\trelo.API\Bello.Domain\obj\Debug\netstandard2.0\Bello.Domain.AssemblyInfo.cs
+C:\Users\nguye\Source\Repos\trelo.API\Bello.Domain\obj\Debug\netstandard2.0\Bello.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Source\Repos\trelo.API\Bello.Domain\obj\Debug\netstandard2.0\Bello.Domain.dll
+C:\Users\nguye\Source\Repos\trelo.API\Bello.Domain\obj\Debug\netstandard2.0\Bello.Domain.pdb

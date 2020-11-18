@@ -1,0 +1,12 @@
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Interface\bin\Debug\netstandard2.0\Bello.DAL.Interface.deps.json
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Interface\bin\Debug\netstandard2.0\Bello.DAL.Interface.dll
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Interface\bin\Debug\netstandard2.0\Bello.DAL.Interface.pdb
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Interface\bin\Debug\netstandard2.0\Bello.Domain.dll
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Interface\bin\Debug\netstandard2.0\Bello.Domain.pdb
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Interface\obj\Debug\netstandard2.0\Bello.DAL.Interface.csprojAssemblyReference.cache
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Interface\obj\Debug\netstandard2.0\Bello.DAL.Interface.AssemblyInfoInputs.cache
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Interface\obj\Debug\netstandard2.0\Bello.DAL.Interface.AssemblyInfo.cs
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Interface\obj\Debug\netstandard2.0\Bello.DAL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Interface\obj\Debug\netstandard2.0\Bello.DAL.Interface.csproj.CopyComplete
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Interface\obj\Debug\netstandard2.0\Bello.DAL.Interface.dll
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Interface\obj\Debug\netstandard2.0\Bello.DAL.Interface.pdb

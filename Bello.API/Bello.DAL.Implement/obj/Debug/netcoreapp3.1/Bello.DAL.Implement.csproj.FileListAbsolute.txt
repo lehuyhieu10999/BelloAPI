@@ -1,0 +1,14 @@
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Implement\bin\Debug\netcoreapp3.1\Bello.DAL.Implement.deps.json
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Implement\bin\Debug\netcoreapp3.1\Bello.DAL.Implement.dll
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Implement\bin\Debug\netcoreapp3.1\Bello.DAL.Implement.pdb
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Implement\bin\Debug\netcoreapp3.1\Bello.DAL.Interface.dll
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Implement\bin\Debug\netcoreapp3.1\Bello.Domain.dll
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Implement\bin\Debug\netcoreapp3.1\Bello.DAL.Interface.pdb
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Implement\bin\Debug\netcoreapp3.1\Bello.Domain.pdb
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Implement\obj\Debug\netcoreapp3.1\Bello.DAL.Implement.csprojAssemblyReference.cache
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Implement\obj\Debug\netcoreapp3.1\Bello.DAL.Implement.AssemblyInfoInputs.cache
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Implement\obj\Debug\netcoreapp3.1\Bello.DAL.Implement.AssemblyInfo.cs
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Implement\obj\Debug\netcoreapp3.1\Bello.DAL.Implement.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Implement\obj\Debug\netcoreapp3.1\Bello.DAL.Implement.csproj.CopyComplete
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Implement\obj\Debug\netcoreapp3.1\Bello.DAL.Implement.dll
+C:\Users\nguye\Source\Repos\trelo.API\Bello.DAL.Implement\obj\Debug\netcoreapp3.1\Bello.DAL.Implement.pdb
